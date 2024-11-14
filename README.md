@@ -4,6 +4,7 @@ Exercițiul 1
 
 Dacă schimbăm valoarea constantei MatrixMode.Projection în altă opțiune, de exemplu, MatrixMode.Modelview, vom observa că proiecția scenei nu mai este configurată corect. Acest lucru va influența modul în care obiectele sunt desenate și afișate pe ecran.
 
+
 Exercițiul 3
 
 Ce reprezintă un viewport în OpenGL?
